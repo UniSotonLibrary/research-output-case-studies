@@ -13,6 +13,7 @@ project:
     - case-study-4.qmd
     - spoilers.qmd
 website:
+  google-analytics: "G-CCC4X0EP8B"
   title: "Case studies for Open Access sessions"
   repo-url: https://unisotonlibrary.github.io/Case-studies/
   repo-branch: main
